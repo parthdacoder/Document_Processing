@@ -12,7 +12,6 @@ This project provides a pipeline to preprocess text and layout from an image, se
   - [Storing in ChromaDB](#storing-in-chromadb)
   - [Retrieving Chunks](#retrieving-chunks)
 - [Example](#example)
-- [Acknowledgments](#acknowledgments)
 
 ## Installation
 
